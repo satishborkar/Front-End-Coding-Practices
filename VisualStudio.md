@@ -16,3 +16,13 @@
  - Code Spell Checker
 
 
+
+ #Theme for visual Studio:
+
+ - https://marketplace.visualstudio.com/items?itemName=Valiantsin.operatormonodarktheme
+
+ #Install following fonts in the systems:
+   - https://www.fontsquirrel.com/fonts/fira-code
+   - https://www.cufonfonts.com/font/operator-mono
+
+
